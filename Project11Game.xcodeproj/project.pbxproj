@@ -15,6 +15,7 @@
 		6372FBCF282A5F1000138808 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6372FBCE282A5F1000138808 /* Assets.xcassets */; };
 		6372FBD2282A5F1000138808 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6372FBD0282A5F1000138808 /* LaunchScreen.storyboard */; };
 		6372FBD9282A7D7100138808 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6372FBD8282A7D7100138808 /* Constants.swift */; };
+		63BE2F00283108A400BD4895 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 63BE2EFF283108A400BD4895 /* FireParticles.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		6372FBCE282A5F1000138808 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6372FBD1282A5F1000138808 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6372FBD8282A7D7100138808 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		63BE2EFF283108A400BD4895 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				6372FBCB282A5F0F00138808 /* Main.storyboard */,
 				6372FBCE282A5F1000138808 /* Assets.xcassets */,
 				6372FBD0282A5F1000138808 /* LaunchScreen.storyboard */,
+				63BE2EFF283108A400BD4895 /* FireParticles.sks */,
 			);
 			path = Project11Game;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			files = (
 				6372FBCD282A5F0F00138808 /* Main.storyboard in Resources */,
 				6372FBC4282A5F0F00138808 /* GameScene.sks in Resources */,
+				63BE2F00283108A400BD4895 /* FireParticles.sks in Resources */,
 				6372FBCF282A5F1000138808 /* Assets.xcassets in Resources */,
 				6372FBD2282A5F1000138808 /* LaunchScreen.storyboard in Resources */,
 			);

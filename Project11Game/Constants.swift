@@ -21,4 +21,6 @@ class K {
     static let slotGlowBad = "slotGlowBad"
     static let slotGlowGood = "slotGlowGood"
     static let spark = "spark"
+    static let fireParticles = "FireParticles"
+    static let font = "Chalkduster"
 }
